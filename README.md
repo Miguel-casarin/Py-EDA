@@ -1,7 +1,7 @@
 # Py-EAD
 Um Electronic Design Automation (EDA) é um conjunto de ferramentas de software usadas para projetar, simular e verificar circuitos eletrônicos, como chips e placas, ele serve automatizar e agilizar o desenvolvimento de Hardware.
 
-Nesse trabalho foi desenvolvido um protótipo de um simples EDA escrito em Python, que organiza as células por meio de uma tabeça Hash.
+Nesse trabalho foi desenvolvido um protótipo de um simples EDA escrito em Python, que organiza as células por meio de uma tabela Hash.
 
 ![tela](https://github.com/user-attachments/assets/50837331-6360-494b-99fb-9109c486de67)
 ![circuito](https://github.com/user-attachments/assets/452812ee-8509-419f-8e8d-530b90bf5e06)
